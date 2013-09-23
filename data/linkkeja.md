@@ -21,5 +21,5 @@ Dataa
 
 Hyödyllisiä linkkejä
 ====================
-[1] http://en.wikipedia.org/wiki/Social_bookmarking
+[1] http://en.wikipedia.org/wiki/Social_bookmarking <br>
 [2] Sotkanet (http://uusi.sotkanet.fi/portal/page/portal/etusivu)
